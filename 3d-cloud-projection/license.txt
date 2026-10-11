@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vacation House Architect
+* source:	https://sketchfab.com/3d-models/vacation-house-architect-f84518abf99c4705a69dd4f4f16edb41
+* author:	Diego Ferro Steel Frame Designer (https://sketchfab.com/daferroa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vacation House Architect" (https://sketchfab.com/3d-models/vacation-house-architect-f84518abf99c4705a69dd4f4f16edb41) by Diego Ferro Steel Frame Designer (https://sketchfab.com/daferroa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
